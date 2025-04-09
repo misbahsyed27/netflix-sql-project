@@ -62,8 +62,5 @@ This project focuses on data cleaning, exploration, and analysis of the Netflix 
 ## Tools Used
 
 - **SQL (MySQL Workbench)**
----
-
-## 📁 Project Structure
 
 
